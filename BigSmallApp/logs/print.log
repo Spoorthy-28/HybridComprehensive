@@ -1,0 +1,87 @@
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - COD not available, enter valid pincode
+[main] INFO  com.mindtree.utilities.Log  - COD not available, enter valid pincode
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD not available, enter valid pincode
+[main] INFO  com.mindtree.utilities.Log  - COD not available, enter valid pincode
+[main] INFO  com.mindtree.utilities.Log  - COD not available, enter valid pincode
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD not available, enter valid pincode
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[@class='btn btn-default'])[1]"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LIAKTO4M', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\Spoorthy\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49694}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e6e96548c3cfea8915458ad33bfe35d
+*** Element info: {Using=xpath, value=(//button[@class='btn btn-default'])[1]}
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[@class='btn btn-default'])[1]"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LIAKTO4M', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\Spoorthy\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5246eea2fd05fea28449b57eec2b457b
+*** Element info: {Using=xpath, value=(//button[@class='btn btn-default'])[1]}
+[main] INFO  com.mindtree.utilities.Log  - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//p[@class='note form-success']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LIAKTO4M', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: driver.version: RemoteWebDriver
+[main] INFO  com.mindtree.utilities.Log  - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//p[@class='note form-success']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LIAKTO4M', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: driver.version: RemoteWebDriver
+[main] INFO  com.mindtree.utilities.Log  - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='note form-success']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LIAKTO4M', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\Spoorthy\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63350}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42c6ed91a315560d733f883483df851f
+*** Element info: {Using=xpath, value=//p[@class='note form-success']}
+[main] INFO  com.mindtree.utilities.Log  - Error occured in contacting us
+[main] INFO  com.mindtree.utilities.Log  - Error occured in contacting us
+[main] INFO  com.mindtree.utilities.Log  - Error occured in contacting us
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Account creation is not successful
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Account creation is not successful
+[main] INFO  com.mindtree.utilities.Log  - Error occured in contacting us
+[main] INFO  com.mindtree.utilities.Log  - Successfully added to cart
+[main] INFO  com.mindtree.utilities.Log  - COD is available
+[main] INFO  com.mindtree.utilities.Log  - Account creation is not successful
+[main] INFO  com.mindtree.utilities.Log  - Error occured in contacting us

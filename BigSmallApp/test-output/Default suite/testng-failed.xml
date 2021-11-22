@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="com.mindtree.runner.BigSmallApplication">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="createAccValidation"/>
+          <include name="getBrowser"/>
+        </methods>
+      </class> <!-- com.mindtree.runner.BigSmallApplication -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
